@@ -29,19 +29,23 @@ Configure OpenCode to use your NVIDIA API key.
 
 Your instructor will walk through this step with the group.
 
-## Step 4: Test the Setup
+## Step 4: Create Your Workspace
 
-Start OpenCode and ask a simple question, such as:
+Start OpenCode from the root of this workshop repository.
 
-```text
-What project directory am I in?
-```
-
-Then try a simple research-support request:
+Your first prompt should ask the agent to create your personal workspace inside the `attendees/` directory. Replace `first-last` with your name in lowercase, using hyphens instead of spaces.
 
 ```text
-Create a short checklist for verifying an AI-generated research summary.
+Create a subdirectory for me at attendees/first-last. From now on, use that directory as my workspace for this workshop unless I tell you otherwise.
 ```
+
+For example:
+
+```text
+Create a subdirectory for me at attendees/sina-montazeri. From now on, use that directory as my workspace for this workshop unless I tell you otherwise.
+```
+
+After the agent creates your directory, ask it to confirm the path it will use for your workshop work.
 
 ## Completion Check
 
@@ -50,4 +54,5 @@ Before moving on, confirm that you have:
 - OpenCode installed.
 - Access to an NVIDIA API key.
 - OpenCode configured to use the NVIDIA API.
-- A successful first OpenCode interaction.
+- A personal workspace under `attendees/`.
+- A successful first OpenCode interaction inside your workspace.
