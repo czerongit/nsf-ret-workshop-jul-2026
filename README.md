@@ -17,41 +17,17 @@ The workshop focuses on how agentic AI systems can support research workflows, i
 - Practice using AI agents for structured research tasks.
 - Build habits for evaluating, verifying, and documenting AI-assisted work.
 - Support teachers in translating research experiences into classroom-ready activities.
-- Organize shared materials, schedules, and follow-up resources in one place.
 
-## Schedule
+## Modules
 
-| Date | Topic | Materials |
-| --- | --- | --- |
-| TBD | Workshop introduction and agentic AI overview | TBD |
-| TBD | Research workflows with AI agents | TBD |
-| TBD | Verification, documentation, and responsible use | TBD |
-| TBD | Classroom translation | TBD |
-| TBD | Presentations and wrap-up | TBD |
+- [Module 1: Agentic AI Setup](modules/1-agentic-setup/)
 
-## Materials
+## Timeline
 
-- Slides: TBD
-- Handouts: TBD
-- Datasets: TBD
-- Code or notebooks: TBD
-- Agent workflows: TBD
-- Classroom activity drafts: TBD
-
-## Participant Work
-
-Participants can use this repository to collect:
-
-- Daily notes
-- Activity drafts
-- Research reflections
-- Lesson plan materials
-- Final presentation resources
+See [timeline.md](timeline.md).
 
 ## Logistics
 
 - Host institution: University of North Texas
 - Program: NSF RET
 - Instructor: Sina Montazeri
-- Location: TBD
-- Contact: TBD
