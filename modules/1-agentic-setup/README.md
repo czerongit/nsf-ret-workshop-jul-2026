@@ -33,16 +33,16 @@ Your instructor will walk through this step with the group.
 
 Start OpenCode from the root of this workshop repository.
 
-Your first prompt should ask the agent to create your personal workspace inside the `attendees/` directory. Replace `first-last` with your name in lowercase, using hyphens instead of spaces.
+Your first prompt should ask the agent to create your personal workspace inside the `atendee-workspace/` directory. Replace `first-last` with your name in lowercase, using hyphens instead of spaces.
 
 ```text
-Create a subdirectory for me at attendees/first-last. From now on, use that directory as my workspace for this workshop unless I tell you otherwise.
+Create a subdirectory for me at atendee-workspace/first-last. From now on, use that directory as my workspace for this workshop unless I tell you otherwise.
 ```
 
 For example:
 
 ```text
-Create a subdirectory for me at attendees/sina-montazeri. From now on, use that directory as my workspace for this workshop unless I tell you otherwise.
+Create a subdirectory for me at atendee-workspace/sina-montazeri. From now on, use that directory as my workspace for this workshop unless I tell you otherwise.
 ```
 
 After the agent creates your directory, ask it to confirm the path it will use for your workshop work.
@@ -54,5 +54,5 @@ Before moving on, confirm that you have:
 - OpenCode installed.
 - Access to an NVIDIA API key.
 - OpenCode configured to use the NVIDIA API.
-- A personal workspace under `attendees/`.
+- A personal workspace under `atendee-workspace/`.
 - A successful first OpenCode interaction inside your workspace.
