@@ -3,7 +3,7 @@
 University of North Texas  
 July 2026
 
-Instructor: Sina Montazeri
+Instructors: Sina Montazeri and Dr. Kewei Sha
 
 ## Overview
 
@@ -40,4 +40,4 @@ See [timeline.md](timeline.md).
 
 - Host institution: University of North Texas
 - Program: NSF RET
-- Instructor: Sina Montazeri
+- Instructors: Sina Montazeri and Dr. Kewei Sha
