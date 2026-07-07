@@ -1,10 +1,18 @@
 # Module 1: Agentic AI Setup
 
+Duration: 15 minutes
+
 ## Goal
 
 Set up the tools needed to work with an AI coding and research agent during the workshop.
 
-By the end of this module, you should be able to run OpenCode locally and connect it to an NVIDIA API key.
+By the end of this module, you should be able to run OpenCode locally, connect it to an NVIDIA API key, and have your own fork of the workshop repository.
+
+You will create:
+
+- A GitHub fork of the workshop repository.
+- A local clone of your fork.
+- A personal workspace under `atendee-workspace/`.
 
 ## Step 1: Install OpenCode
 
@@ -29,7 +37,21 @@ Configure OpenCode to use your NVIDIA API key.
 
 Your instructor will walk through this step with the group.
 
-## Step 4: Create Your Workspace
+## Step 4: Fork and Clone the Workshop Repository
+
+Go to the workshop repository:
+
+```text
+https://github.com/czerongit/nsf-ret-workshop-jul-2026
+```
+
+Fork the repository into your own GitHub account.
+
+Then clone your fork to your computer and open a terminal in the cloned repository.
+
+Your work during the workshop should happen in your fork. At the end of the workshop, you will submit a pull request back to the original repository.
+
+## Step 5: Create Your Workspace
 
 Start OpenCode from the root of this workshop repository.
 
@@ -47,10 +69,20 @@ Create a subdirectory for me at atendee-workspace/sina-montazeri. From now on, u
 
 After the agent creates your directory, ask it to confirm the path it will use for your workshop work.
 
+## Quick Checkpoint
+
+Be ready to show:
+
+- Your local workshop repository.
+- Your personal workspace directory.
+- One successful OpenCode interaction.
+
 ## Completion Check
 
 Before moving on, confirm that you have:
 
+- A fork of the workshop repository in your GitHub account.
+- A local clone of your fork.
 - OpenCode installed.
 - Access to an NVIDIA API key.
 - OpenCode configured to use the NVIDIA API.

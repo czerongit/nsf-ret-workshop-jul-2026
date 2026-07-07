@@ -16,11 +16,21 @@ The workshop focuses on how agentic AI systems can support research workflows, i
 - Introduce participants to agentic AI concepts and research use cases.
 - Practice using AI agents for structured research tasks.
 - Build habits for evaluating, verifying, and documenting AI-assisted work.
-- Support teachers in translating research experiences into classroom-ready activities.
+- Support participants in building research workflows they can inspect, reproduce, and explain.
 
 ## Modules
 
 - [Module 1: Agentic AI Setup](modules/1-agentic-setup/)
+- [Module 2: Research Workflows](modules/2-research-workflows/)
+- [Module 3: Agentic Coding and Data Work](modules/3-agentic-coding-and-data-work/)
+- [Module 4: Verification and Trust](modules/4-verification-and-trust/)
+- [Module 5: Responsible Research Use](modules/5-responsible-research-use/)
+- [Module 6: Research Workflow Packaging](modules/6-research-workflow-packaging/)
+
+## Support
+
+- [Glossary](glossary.md)
+- [Troubleshooting](troubleshooting.md)
 
 ## Timeline
 

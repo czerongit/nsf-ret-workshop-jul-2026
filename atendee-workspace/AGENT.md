@@ -29,7 +29,7 @@ Commit and push participant work that belongs in the workshop repository, such a
 - Source tables and citation notes that do not contain private information.
 - Classroom activity drafts.
 - Lesson-plan drafts.
-- Small scripts or notebooks created for workshop exercises.
+- Small scripts, data files, or plots created for workshop exercises.
 - Verification checklists and responsible-use guidelines.
 
 ## What Not To Push
@@ -38,7 +38,7 @@ Do not commit or push:
 
 - API keys, tokens, passwords, or credentials.
 - `.env` files or local configuration files containing secrets.
-- Private student data or personally identifiable information.
+- Private personal data or personally identifiable information.
 - Large generated files unless the instructor explicitly asks for them.
 - Downloaded dependency folders such as `node_modules/`.
 - Temporary caches, logs, build outputs, or tool state directories.
@@ -53,4 +53,3 @@ If you are unsure whether a file should be pushed, ask the participant before st
 - Stage only files that are part of the participant's intended workshop work.
 - Do not overwrite another participant's directory.
 - Do not remove or rewrite committed history unless the instructor explicitly asks.
-
