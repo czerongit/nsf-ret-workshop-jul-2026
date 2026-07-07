@@ -1,8 +1,8 @@
 # Troubleshooting
 
-## OpenCode Command Not Found
+## OpenCode Does Not Open
 
-Restart your terminal after installation. If it still does not work, ask your agent to check whether OpenCode was installed and whether its install location is on your `PATH`.
+Confirm you installed OpenCode from https://opencode.ai/download. If it still does not open, restart your computer or reinstall OpenCode from the download page.
 
 ## NVIDIA API Key Not Working
 
@@ -35,4 +35,3 @@ Ask the agent to create a text summary instead of a plot, then record the issue 
 ## Unsure Whether a File Should Be Shared
 
 Use `responsible-use.md` to classify the file as safe to share, review before sharing, or do not share. If uncertain, do not push it until the instructor reviews it.
-

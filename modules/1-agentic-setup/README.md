@@ -16,13 +16,11 @@ You will create:
 
 ## Step 1: Install OpenCode
 
-Open a terminal and run:
+Download and install OpenCode:
 
-```bash
-curl -fsSL https://opencode.ai/install | bash
-```
+https://opencode.ai/download
 
-After installation, restart your terminal if needed.
+After installation, open OpenCode and confirm it starts correctly.
 
 ## Step 2: Get an NVIDIA API Key
 
